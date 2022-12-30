@@ -1,7 +1,7 @@
 <img src='github banner3.jpg' alt="banner"></img>
 
 # ⚡ About Me:
-I've been learning Web3 development for 4 months.<br>till now made a few projects but non of them are good enough to put in my portfolio.<br><br>🔥 so for a next mounth I'm going to make some real projects <br><br>👀 currently I'm working on a <a href="https://github.com/ssparknt/Web3-Shopping-App">web3 shopping web app</a> that make shopping a real decentralized experience.<br>
+I've been learning Web3 development for 4 months.<br>till now made a few projects but non of them are good enough to put in my portfolio.<br><br>🔥 so for a next mounth I'm going to make some real projects <br>👀 currently I'm working on a <a href="https://github.com/ssparknt/Web3-Shopping-App">web3 shopping web app</a> that make shopping a real decentralized experience.<br><br>just letting you know that I understand my social media account names are kind of messed up I will fix that soon.
 
 
 ## 🌐 Socials:
