@@ -1,17 +1,21 @@
 <img src='github banner3.jpg' alt="banner"></img>
 
 # ⚡ About Me:
-I've been learning Web3 development for 4 months.<br>till now made a few projects but non of them are good enough to put in my portfolio.<br><br>🔥 so for a next mounth I'm going to make some real projects <br>👀 currently I'm working on a <a href="https://github.com/ssparknt/Web3-Shopping-App">web3 shopping web app</a> that make shopping a real decentralized experience.<br><br>just letting you know that I understand my social media account names are kind of messed up I will fix that soon.
-<br/>
-<br/>
+#### Hi, I'm an independent Developer and Designer. <br> just launched [My Website](https://www.sinasparkn.pro). <hr> What really matters to me is the impact of my work on people's experience, and that's positioned me where I am today.
+<hr/>
+
+Currently, I'm learning <b>Full-Stack<b/> by building various Projects to put them in my Portfolio.
+
+
+
 [![](https://visitcount.itsvg.in/api?id=ssparknt&label=Profile%20Views&color=5&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
 [![Sina Sparkns Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zare-a01550238/)
-[![Sina Sparkns Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@sinaproject007)
-[![Sina Sparkns Behance](https://img.shields.io/badge/Behance-2962FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sparkn)
-[![Sina Sparkns Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sparknsina)
+[![Sina Sparkns Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@AlphaSparkn)
+[![Sina Sparkns Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sparknt)
+[![Sina Sparkns Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@sina_sparknt)
 
 # 💻 Tech Stack:
 
