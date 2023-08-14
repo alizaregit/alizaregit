@@ -4,7 +4,7 @@
 #### Hi, I'm an independent Developer and Designer. <br> just launched [My Website](https://www.sinasparkn.pro). <hr> What really matters to me is the impact of my work on people's experience, and that's positioned me where I am today.
 <hr/>
 
-Currently, I'm learning <b>Full-Stack<b/> by building various Projects to put them in my Portfolio.
+#### Currently, I'm learning <b>Full-Stack<b/> by building various Projects to Add them in my Portfolio.
 
 
 
