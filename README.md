@@ -1,4 +1,4 @@
-<img src='banner.jpg' alt="banner"></img>
+<img src='bannernew.png' alt="banner"></img>
 
 # About Me:
 #### Hi, I'm Sina an independent Developer and Designer. <br><br> Just launched My [New Website](https://www.sinasparkn.pro). <hr> What really matters to me is the impact of my work on people's experience, and that's positioned me where I am today.
